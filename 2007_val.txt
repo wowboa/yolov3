@@ -1,0 +1,22 @@
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_D3906.jpg 94,850,144,864,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/T4845.jpg 217,395,228,401,0 269,130,285,141,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/X3246.jpg 112,888,120,910,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_C0630.jpg 290,529,305,560,0 291,896,308,919,0 289,852,308,871,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_G3545.jpg 82,869,105,900,0 204,741,219,765,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/Y0106.jpg 363,164,377,179,0 334,291,351,331,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_D1126.jpg 80,843,183,918,0 89,798,142,814,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_B2926.jpg 104,847,139,861,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_C2144.jpg 99,848,151,865,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_B3746.jpg 89,852,108,867,0 124,851,154,862,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/U3710.jpg 101,1,401,125,0 391,664,406,705,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_J3106.jpg 130,627,401,714,0 338,769,372,796,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_G1510.jpg 120,747,216,813,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/W5932.jpg 117,878,137,908,0 375,918,391,933,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/X2416.jpg 115,764,115,778,0 74,665,81,676,0 215,493,226,495,0 360,330,371,353,0 417,701,418,710,0 292,553,292,559,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_C1906.jpg 92,851,142,870,0 294,798,416,826,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/Y0902.jpg 412,668,432,682,0 181,456,206,470,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_D0135.jpg 423,51,440,69,0 109,845,158,862,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_B2535.jpg 99,851,113,871,0 132,847,158,857,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_D0941.jpg 99,847,173,870,0 213,181,232,205,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/T2133.jpg 77,485,425,491,0 77,550,392,556,0 312,439,328,456,0
+/home/lzb/remotedata/yolov3/VOCdevkit/VOC2007/JPEGImages/z_D3913.jpg 340,358,358,379,0 152,117,163,127,0 410,712,424,721,0
